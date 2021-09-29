@@ -1,4 +1,4 @@
-#  P<img src = "weather.png" width= 98%>
+<img src = "weather.png" width= 98%>
 
 ## 🌦 Goal
 Enable your user to enter a city + country and return the temperature in Fahrenheit.
